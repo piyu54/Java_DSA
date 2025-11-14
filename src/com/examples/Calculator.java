@@ -12,8 +12,7 @@ public class Calculator {
 		System.out.println("enter your second number");// second num
 		int num2 = sr.nextInt();
 		System.out.println("enter your sign +,-,*,/,% ");// you can enter an operation sign
-		char operator = sr.next().charAt(0);// this is used perform operation
-		// used an switch case here for operation
+		char operator = sr.next().charAt(0);// this is used first character of that string.
 		switch (operator) {
 		case '+':
 			System.out.println("addition of two num is " + (num + num2));

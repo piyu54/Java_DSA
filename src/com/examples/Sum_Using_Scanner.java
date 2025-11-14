@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Sum_Using_Scanner {
 	//same as multiplication
 	public static void main(String[] args) {
+		//here nextInt is used to read an integer 
 		Scanner s = new Scanner(System.in);
 		System.out.println("enter the first number");
 		int a = s.nextInt();

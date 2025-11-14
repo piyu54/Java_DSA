@@ -3,6 +3,7 @@ package com.examples;
 public class Datatype {
 	public static void main(String[] args) 
     {
+		//all data type
         byte b=8;
         System.out.println(b);
         short s=5;

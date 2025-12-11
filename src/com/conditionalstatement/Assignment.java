@@ -16,6 +16,8 @@ public class Assignment {
 //			System.out.println("num is positive");
 //		}
 //		sr.close();
+		
+		
 //		//second
 //		double temp = 103.5;
 //		if (temp >= 100) {
@@ -23,6 +25,8 @@ public class Assignment {
 //		} else {
 //			System.out.println("You dont have a fever");
 //		}
+		
+		
 		//third
 //		Scanner sr2 = new Scanner(System.in);
 //		System.out.println("enter your number");
@@ -55,6 +59,9 @@ public class Assignment {
 //			break;
 //		}
 //		sr2.close();
+		
+		
+		
 		//four
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Input the year: ");

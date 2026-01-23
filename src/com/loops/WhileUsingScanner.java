@@ -7,6 +7,7 @@ public class WhileUsingScanner {
 	public static void main(String[] args) {
 		
 		Scanner s = new Scanner(System.in);
+		System.out.println("Enter the num");
 		int num=s.nextInt();
 		int i=1;
 		int sum=0;
@@ -15,6 +16,6 @@ public class WhileUsingScanner {
 			sum+=i;
 			i++;
 		}
-		System.out.println(sum);
+		System.out.println("Sum of "+sum);
 	}
 }

@@ -15,7 +15,7 @@ public class WhileUsingScanner {
 		{
 			sum+=i;
 			i++;
-		}
-		System.out.println("Sum of "+sum);
+		} 
+		System.out.println("Sum is "+sum);
 	}
 }

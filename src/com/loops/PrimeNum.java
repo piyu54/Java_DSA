@@ -9,6 +9,7 @@ public class PrimeNum {
 		Scanner s= new Scanner(System.in);
 		int num=s.nextInt();
 		
+		
 	
 		
 	}

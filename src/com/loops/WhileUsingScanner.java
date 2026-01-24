@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WhileUsingScanner {
 
 	public static void main(String[] args) {
-		
+		//while using 
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter the num");
 		int num=s.nextInt();

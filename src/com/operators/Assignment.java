@@ -2,7 +2,7 @@ package com.operators;
 
 public class Assignment {
 	public static void main(String[] args) {
-//		Assignment operators
+//		Assignment operators s
 		int a = 10;
 		a += 10;
 		System.out.println(a);

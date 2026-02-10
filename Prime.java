@@ -3,7 +3,7 @@ public class Prime {
 
 	public static void main(String[] args) {
 		
-
+//
 
 		int n=2;
 		boolean isprime=true;

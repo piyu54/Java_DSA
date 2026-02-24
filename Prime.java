@@ -8,14 +8,14 @@ public class Prime {
 		int n=2;
 		boolean isprime=true;
 		
-		if(n<2)
-		{
-			isprime=false;
-		}
-		else
-		{
-			
-		}
+//		if(n<2)
+//		{
+//			isprime=false;
+//		}
+//		else
+//		{
+//			
+//		}
 		
 		for(int i=2;i<n;i++)
 		{

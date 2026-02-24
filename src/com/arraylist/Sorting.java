@@ -16,11 +16,13 @@ public class Sorting {
 		l.add(30);
 		l.add(40);
 		
-		Collections.sort(l);
+//		Collections.sort(l);
+//		
+//		System.out.println(l);
+//		
+//		Collections.sort(l,Collections.reverseOrder());
 		
-		System.out.println(l);
 		
-		Collections.sort(l,Collections.reverseOrder());
 		System.out.println(l);
 	}
 }

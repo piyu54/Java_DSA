@@ -1,7 +1,7 @@
 package com.arraylist;
 
 import java.util.ArrayList;
-
+//min number
 public class ArrayListMin {
 
 	public static void main(String[] args) {

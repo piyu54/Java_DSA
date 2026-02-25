@@ -1,10 +1,10 @@
 package com.arraylist;
 
-import java.sql.Array;
+
 import java.util.ArrayList;
 
 public class ArrayListMax{
-
+//max number
 	public static void main(String[] args) {
 
 		int max=0;

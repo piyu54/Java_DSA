@@ -1,7 +1,7 @@
 package com.arraylist;
 
 import java.util.ArrayList;
-
+//swapping an array
 public class SwapArrayList {
 
 	

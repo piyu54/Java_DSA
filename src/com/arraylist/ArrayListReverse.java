@@ -1,7 +1,7 @@
 package com.arraylist;
 import java.util.ArrayList;
 public class ArrayListReverse {
-
+//reverse an array
 	public static void main(String[] args) {
 		
 		ArrayList<Integer> l=new ArrayList<Integer>();

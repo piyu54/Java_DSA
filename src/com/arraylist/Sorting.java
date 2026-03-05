@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 //soring using inbuild method
 public class Sorting {
-
+//
 	public static void main(String[] args) {
 		ArrayList< Integer> l = new ArrayList<Integer>();
 		l.add(10);

@@ -1,7 +1,7 @@
 package com.functions_methods;
 
 import java.util.Scanner;
-
+//
 public class Parameterized {
 
 	

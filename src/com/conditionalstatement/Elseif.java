@@ -2,7 +2,7 @@ package com.conditionalstatement;
 
 public class Elseif {
 	public static void main(String[] args) {
-
+//
 		int age = 14;
 
 		if (age >= 18) {

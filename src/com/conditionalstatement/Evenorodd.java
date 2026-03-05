@@ -1,5 +1,5 @@
 package com.conditionalstatement;
-
+//
 public class Evenorodd {
 	public static void main(String[] args) {
 

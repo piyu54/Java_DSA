@@ -4,7 +4,7 @@ import java.util.ArrayList;
 //swapping an array
 public class SwapArrayList {
 
-	
+	//
 	public static void swap(ArrayList< Integer> l,int index1,int index2)
 	{
 		int temp=l.get(index1);
